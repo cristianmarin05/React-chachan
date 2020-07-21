@@ -1,0 +1,118 @@
+[
+  {
+    "id": 0,
+    "title": "M A J A G U A",
+    "subtitle": "Saddle billed storck 037",
+    "description": "Saddle billed storck 037. Diseño para majagua, basado en el jabirú una especie de ave que se encuentra en lationamerica y en el africa. posee una característica coloración amarilla y roja en el pico y de plumas blancas con negro. Estas caracteristicas fueron de marcada influencia en el aspecto de estas gafas. ",
+    "image": "img/R1.jpg",
+    "viewMore": [
+      {
+        "id": 0,
+        "image1": "img/R11.jpg",
+        "image2": "img/R12.jpg",
+        "image3": "img/R13.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "M A J A G U A",
+    "subtitle": "la vida en una botella",
+    "description": "Somos botellas arrojadas al mar con la esperanza de que lean nuestro contenido y tener respuesta sobre lo que nos ocurre, pero aún damos vueltas por el gran océano sin llegar a un destino concreto. La idea surge en el contexto actual de la pandemia que esta afectando nuestras vida cotidiana plateando nuevas formas de vivir",
+    "image": "img/R2.jpg",
+    "viewMore": [
+      {
+        "id": 1,
+        "image1": "img/R21.jpg",
+        "image2": "img/R22.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Jarrón",
+    "subtitle": "Kintsugi",
+    "description": "Objetos rotos que enaltecen su belleza con su nueva apariencia.",
+    "image": "img/R3.jpg",
+    "viewMore": [
+      {
+        "id": 2,
+        "image1": "img/R31.jpg",
+        "image2": "img/R32.jpg",
+        "image3": "img/R33.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "SMART BIKE",
+    "subtitle": "UI/UX BIKE",
+    "description": "Desarrollo de interfaz fisica y gráfica de pantalla integrada en bicicleta.",
+    "image": "img/R4.gif",
+    "viewMore": [
+      {
+        "id": 3,
+        "image1": "img/R41.png",
+        "image2": "img/R4.gif"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Concept",
+    "subtitle": "Plancha",
+    "description": "Sketch concept de plancha basado en las olas y su gran curva conductora que ordena los componentes.",
+    "image": "img/R5.png",
+    "viewMore": [
+      {
+        "id": 4,
+        "image1": "img/R51.png",
+        "image2": "img/R52.png",
+        "image3": "img/R5.png"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "S3 bike",
+    "subtitle": "S3  bike",
+    "description": "Propuesta de cuadro de bicicleta para s3bikes una pyme en processo de construcción. Con formas organicas y y aerodinamicas.",
+    "image": "img/R6.jpg",
+    "viewMore": [
+      {
+        "id": 5,
+        "image1": "img/R61.jpg",
+        "image2": "img/R62.jpg",
+        "image3": "img/R63.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Lavadora concept",
+    "subtitle": "Lavadora Nike",
+    "description": "Desarrollo interfaz gráfica y fisica con las caracteristicas de un usuario deportivo.",
+    "image": "img/R7.jpg",
+    "viewMore": [
+      {
+        "id": 6,
+        "image1": "img/R70.jpg",
+        "image2": "img/R71.jpg",
+        "image3": "img/R72.jpg"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Tetera",
+    "subtitle": "camino del té",
+    "description": "Sentir la belleza de los artefactos austeros e imperfectos en la céramica rústica y la madera que parece recien talada.",
+    "image": "img/R8.png",
+    "viewMore": [
+      {
+        "id": 7,
+        "image1": "img/R8.png"
+      }
+    ]
+  }
+]
