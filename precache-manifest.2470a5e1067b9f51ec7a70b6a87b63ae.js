@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "75d199cd32a6b60bcae7ce87830e6b7f",
+    "revision": "55bf473722fdb47d250d04c358140a49",
     "url": "/cristianmarin05/React-chachan.git/index.html"
   },
   {
