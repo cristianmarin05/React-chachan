@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/cristianmarin05/React-chachan.git/static/css/main.ed355681.chunk.css",
-    "main.js": "/cristianmarin05/React-chachan.git/static/js/main.27a74a2a.chunk.js",
-    "main.js.map": "/cristianmarin05/React-chachan.git/static/js/main.27a74a2a.chunk.js.map",
+    "main.js": "/cristianmarin05/React-chachan.git/static/js/main.3e1253ea.chunk.js",
+    "main.js.map": "/cristianmarin05/React-chachan.git/static/js/main.3e1253ea.chunk.js.map",
     "runtime-main.js": "/cristianmarin05/React-chachan.git/static/js/runtime-main.b01351b9.js",
     "runtime-main.js.map": "/cristianmarin05/React-chachan.git/static/js/runtime-main.b01351b9.js.map",
     "static/css/2.4ea9c636.chunk.css": "/cristianmarin05/React-chachan.git/static/css/2.4ea9c636.chunk.css",
-    "static/js/2.73bc265a.chunk.js": "/cristianmarin05/React-chachan.git/static/js/2.73bc265a.chunk.js",
-    "static/js/2.73bc265a.chunk.js.map": "/cristianmarin05/React-chachan.git/static/js/2.73bc265a.chunk.js.map",
+    "static/js/2.6014e734.chunk.js": "/cristianmarin05/React-chachan.git/static/js/2.6014e734.chunk.js",
+    "static/js/2.6014e734.chunk.js.map": "/cristianmarin05/React-chachan.git/static/js/2.6014e734.chunk.js.map",
     "index.html": "/cristianmarin05/React-chachan.git/index.html",
-    "precache-manifest.2470a5e1067b9f51ec7a70b6a87b63ae.js": "/cristianmarin05/React-chachan.git/precache-manifest.2470a5e1067b9f51ec7a70b6a87b63ae.js",
+    "precache-manifest.d05032aa973bf8b88851db8912e7cd07.js": "/cristianmarin05/React-chachan.git/precache-manifest.d05032aa973bf8b88851db8912e7cd07.js",
     "service-worker.js": "/cristianmarin05/React-chachan.git/service-worker.js",
     "static/css/2.4ea9c636.chunk.css.map": "/cristianmarin05/React-chachan.git/static/css/2.4ea9c636.chunk.css.map",
     "static/css/main.ed355681.chunk.css.map": "/cristianmarin05/React-chachan.git/static/css/main.ed355681.chunk.css.map",
-    "static/js/2.73bc265a.chunk.js.LICENSE.txt": "/cristianmarin05/React-chachan.git/static/js/2.73bc265a.chunk.js.LICENSE.txt",
+    "static/js/2.6014e734.chunk.js.LICENSE.txt": "/cristianmarin05/React-chachan.git/static/js/2.6014e734.chunk.js.LICENSE.txt",
     "static/media/Hero.png": "/cristianmarin05/React-chachan.git/static/media/Hero.40e1e53a.png",
     "static/media/S1.png": "/cristianmarin05/React-chachan.git/static/media/S1.c337feb0.png",
     "static/media/b1.jpg": "/cristianmarin05/React-chachan.git/static/media/b1.27b9d8cc.jpg",
@@ -31,8 +31,8 @@
   "entrypoints": [
     "static/js/runtime-main.b01351b9.js",
     "static/css/2.4ea9c636.chunk.css",
-    "static/js/2.73bc265a.chunk.js",
+    "static/js/2.6014e734.chunk.js",
     "static/css/main.ed355681.chunk.css",
-    "static/js/main.27a74a2a.chunk.js"
+    "static/js/main.3e1253ea.chunk.js"
   ]
 }

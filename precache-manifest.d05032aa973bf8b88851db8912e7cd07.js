@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "55bf473722fdb47d250d04c358140a49",
+    "revision": "1133fadce8c2e692465b7aa630b61080",
     "url": "/cristianmarin05/React-chachan.git/index.html"
   },
   {
-    "revision": "ff4c365626186be1e725",
+    "revision": "ce36bf3e7165e4ae196a",
     "url": "/cristianmarin05/React-chachan.git/static/css/2.4ea9c636.chunk.css"
   },
   {
-    "revision": "dcb163e672719e35fbad",
+    "revision": "51c5933869d154bfa2b2",
     "url": "/cristianmarin05/React-chachan.git/static/css/main.ed355681.chunk.css"
   },
   {
-    "revision": "ff4c365626186be1e725",
-    "url": "/cristianmarin05/React-chachan.git/static/js/2.73bc265a.chunk.js"
+    "revision": "ce36bf3e7165e4ae196a",
+    "url": "/cristianmarin05/React-chachan.git/static/js/2.6014e734.chunk.js"
   },
   {
     "revision": "5ab1baa52e351a54fb487f180027ee45",
-    "url": "/cristianmarin05/React-chachan.git/static/js/2.73bc265a.chunk.js.LICENSE.txt"
+    "url": "/cristianmarin05/React-chachan.git/static/js/2.6014e734.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dcb163e672719e35fbad",
-    "url": "/cristianmarin05/React-chachan.git/static/js/main.27a74a2a.chunk.js"
+    "revision": "51c5933869d154bfa2b2",
+    "url": "/cristianmarin05/React-chachan.git/static/js/main.3e1253ea.chunk.js"
   },
   {
     "revision": "864a067c353657b8f881",
